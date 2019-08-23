@@ -1,0 +1,30 @@
+
+.section5
+{
+    
+   background-image: url(test/project-counter.jpg);
+    height: 600px;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.oo
+{
+    color: red;
+    font-size: 20px;
+}
+i
+{
+    color: red;
+}
+.k1
+{
+     position: absolute;
+    top: 200px;
+    border: solid 1px white;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
